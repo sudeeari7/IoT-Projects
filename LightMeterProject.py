@@ -67,8 +67,8 @@ if(state == 2):
 	from boltiot import Bolt
 	import json
 	import csv
-	api_key = "f167b792-3f1f-4322-8b46-550589929019"
-	device_id = "BOLT292095"
+	api_key = "XXXXXXXXXXXXXXXXXX"
+	device_id = "XXXXXXXXXXX"
 
 	mybolt = Bolt(api_key, device_id)
 
