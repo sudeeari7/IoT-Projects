@@ -5,4 +5,5 @@ This project is about assessing the light conditions of a an area and selecting 
 
 The settings can also be determined by basic calculations.The value add this project is bringing is in terms of learning from experience on what settings have been previously used and then giving a best case scenario
 
-For detailed explanation please wathc the video on youtube: https://www.youtube.com/watch?v=JjpWTnnMgGk&feature=youtu.be
+For detailed explanation please wathc the video on youtube:
+https://www.youtube.com/watch?v=JjpWTnnMgGk&feature=youtu.be
