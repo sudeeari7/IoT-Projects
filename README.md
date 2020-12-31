@@ -1,5 +1,5 @@
 # IoT-Projects
-Tool to assess the ligt conditions of an area and predict the best possible camera settings to get a nicely exposed picture.
+# Tool to assess the ligt conditions of an area and predict the best possible camera settings to get a nicely exposed picture.
 
 This project is about assessing the light conditions of a an area and selecting the best camera settings to click a nicely exposed photograph.
 
